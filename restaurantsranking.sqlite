@@ -1,9 +1,9 @@
-/* TOP 10
+TOP 10
 SELECT *
 FROM nomnom
 ORDER BY review DESC
 LIMIT 10;
-*/
+
 
 SELECT name,
  CASE 
